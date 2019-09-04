@@ -28,7 +28,7 @@ guest user will not be able to login to management ui as it supports only localh
 RABBITMQ_DEFAULT_USER: Set default Administrator user ```default admin```
 RABBITMQ_DEFAULT_PASS: Set password for default user ```default admin```
 
-### Running Cluster
+### Launching Cluster
 Add docker-compose file available in cluster directory to your project directory and run below command
 
 ```
