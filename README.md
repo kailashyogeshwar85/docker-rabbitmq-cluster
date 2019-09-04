@@ -36,11 +36,32 @@ docker-compose up -d
 
 ```
 
-Cluster Boot in progress Screenshot
+### Clusters Launching Progress 
+![cluster](screenshots/cluster.png)
 
 ### Management UI
 Manage UI is accssible using localhost:15672 or http://<dockerip>:15672 i.e in my case it is http://192.168.224.1:15672. You can find docker ip using docker network inspect network_name
 
-![Management1](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Management1](screenshots/management1.png)
 
-![Management2](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Management2](screenshots/management2.png)
+
+### Management Dashboard 
+![dashboard](screenshots/admin-metrics.png)
+
+### Compose Logs
+To view logs when RabbitMQ is launched as screenshot
+```
+docker-compose logs -f 
+// or for specific node logs
+docker-compose logs -f rabbit1
+```
+![compose-logs](screenshots/compose-logs.png)
+
+### Future TODO's
+- HA proxy
+- Swarm deployment
+- Custom logging
+
+
+Happing Coding :grinning: kailashyogeshwar85
