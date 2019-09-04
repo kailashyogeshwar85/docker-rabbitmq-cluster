@@ -64,4 +64,4 @@ docker-compose logs -f rabbit1
 - Custom logging
 
 
-Happing Coding :grinning: kailashyogeshwar85
+Happing Coding :grinning: kailashyogeshwar85@gmail.com
