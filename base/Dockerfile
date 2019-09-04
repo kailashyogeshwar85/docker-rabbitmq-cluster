@@ -1,6 +1,6 @@
 FROM lucifer8591/rabbit_erlangbase:latest
 LABEL MAINTAINER="Kailash K Yogeshwar <kailashyogeshwar85@gmail.com>"
-LABEL REPO="lucifer8591/rabbitmq_base"
+LABEL REPO="lucifer8591/rabbitmq_base:3.7.17"
 LABEL build_date="03-09-2019"
 
 WORKDIR /rabbitmq/

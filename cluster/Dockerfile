@@ -1,1 +1,0 @@
-FROM lucifer8591/rabbitmq_base
