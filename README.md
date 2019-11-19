@@ -101,5 +101,8 @@ docker-compose logs -f rabbit1
 - Swarm deployment
 - Custom logging
 
+___
 
-Happing Coding :grinning: kailashyogeshwar85@gmail.com
+Happy Coding :grinning: 
+
+Contact: kailashyogeshwar85@gmail.com
