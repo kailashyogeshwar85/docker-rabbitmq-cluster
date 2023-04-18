@@ -106,3 +106,5 @@ ___
 Happy Coding :grinning: 
 
 Contact: kailashyogeshwar85@gmail.com
+
+CREDIT: https://github.com/bijukunjummen/docker-rabbitmq-cluster
